@@ -1,0 +1,5 @@
+*.docx
+*.tex~
+*.aux
+*.log
+*.DS_Store
