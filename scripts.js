@@ -68,9 +68,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-
-  const link = document.getElementById("emailme");
-  link.href = "mailto:" + "muhammad.sohail" + "@" + "mbzuai.ac.ae";
 });
 
 
